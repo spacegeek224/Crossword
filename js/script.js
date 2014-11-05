@@ -6,8 +6,8 @@
 		// two entries: an across entry and a down entry
 		var puzzleData = [
 			 	{
-					clue: "First letter of greek alphabet",
-					answer: "alpha",
+					clue: "Near, next to, adjoining",
+					answer: "adjacent",
 					position: 1,
 					orientation: "across",
 					startx: 1,
