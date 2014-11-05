@@ -14,8 +14,8 @@
 					starty: 1
 				},
 			 	{
-					clue: "Not a one ___ motor, but a three ___ motor",
-					answer: "phase",
+					clue: "Not important, minor",
+					answer: "trivial",
 					position: 3,
 					orientation: "across",
 					startx: 7,
